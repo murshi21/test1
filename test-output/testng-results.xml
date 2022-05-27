@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-20T10:48:43 IST" name="Default suite" finished-at="2022-05-20T10:48:44 IST" duration-ms="67">
+    <groups>
+    </groups>
+    <test started-at="2022-05-20T10:48:43 IST" name="Default test" finished-at="2022-05-20T10:48:44 IST" duration-ms="67">
+      <class name="firstTestNGTestP.NewTestC">
+        <test-method signature="fv()[pri:1, instance:firstTestNGTestP.NewTestC@2beee7ff]" started-at="2022-05-20T10:48:44 IST" name="fv" finished-at="2022-05-20T10:48:44 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fv -->
+        <test-method signature="fa()[pri:2, instance:firstTestNGTestP.NewTestC@2beee7ff]" started-at="2022-05-20T10:48:44 IST" name="fa" description="hello" finished-at="2022-05-20T10:48:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fa -->
+      </class> <!-- firstTestNGTestP.NewTestC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
